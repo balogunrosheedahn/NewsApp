@@ -18,7 +18,8 @@ This is a mobile application developed with Dart programming language and Flutte
 
 -Settings screen to customize the app's appearance, notification preferences, and other settings.
 
-##Technologies Used
+## Technologies Used
+
 -Dart programming language
 
 -Flutter framework
